@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/practica2react/static/css/main.222ff6a1.chunk.css",
+    "main.js": "/practica2react/static/js/main.f91a8e4e.chunk.js",
+    "main.js.map": "/practica2react/static/js/main.f91a8e4e.chunk.js.map",
+    "runtime-main.js": "/practica2react/static/js/runtime-main.74e8821b.js",
+    "runtime-main.js.map": "/practica2react/static/js/runtime-main.74e8821b.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/practica2react/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.5fdcf699.chunk.js": "/practica2react/static/js/2.5fdcf699.chunk.js",
+    "static/js/2.5fdcf699.chunk.js.map": "/practica2react/static/js/2.5fdcf699.chunk.js.map",
+    "static/js/3.5f97b560.chunk.js": "/practica2react/static/js/3.5f97b560.chunk.js",
+    "static/js/3.5f97b560.chunk.js.map": "/practica2react/static/js/3.5f97b560.chunk.js.map",
+    "index.html": "/practica2react/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/practica2react/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.222ff6a1.chunk.css.map": "/practica2react/static/css/main.222ff6a1.chunk.css.map",
+    "static/js/2.5fdcf699.chunk.js.LICENSE.txt": "/practica2react/static/js/2.5fdcf699.chunk.js.LICENSE.txt",
+    "static/media/logoEscuela.3bc33aef.PNG": "/practica2react/static/media/logoEscuela.3bc33aef.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74e8821b.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.5fdcf699.chunk.js",
+    "static/css/main.222ff6a1.chunk.css",
+    "static/js/main.f91a8e4e.chunk.js"
+  ]
+}
