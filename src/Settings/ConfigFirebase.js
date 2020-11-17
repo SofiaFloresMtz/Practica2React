@@ -2,7 +2,6 @@ import firebase from 'firebase/app';
 import 'firebase/database';
 
 const config={
-    // your information from the firebase database
     apiKey: "AIzaSyDExzdXrSUzhqZkldjVlJwCJ-pgOMoxY1c",
     authDomain: "menureact-725da.firebaseapp.com",
     databaseURL: "https://menureact-725da.firebaseio.com",
